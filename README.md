@@ -30,7 +30,7 @@ Med spa owners lose potential clients when inbound leads aren’t followed up wi
 
 ## Demo
 
-[Loom Video → Med Spa Concierge Demo] *(You can update this with the final Loom link once recorded)*
+Soon Coming...
 
 ---
 
