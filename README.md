@@ -35,13 +35,11 @@ Med spa owners lose potential clients when inbound leads aren’t followed up wi
 ---
 
 ## Tools Used
-
-- [n8n](https://n8n.io/)
-- [OpenAI GPT-4](https://platform.openai.com/)
-- [Surge SMS](https://www.surgehq.ai/) *(or Twilio, Plivo, etc.)*
-- [Supabase](https://supabase.com/) *(for lead logging + storage)*
-- [Google Sheets (optional tracking)](https://workspace.google.com/products/sheets/)
-
+Built using a lightweight, modular stack:
+- GPT-4 for lead message understanding and response generation
+- A visual automation engine (n8n or similar)
+- SMS delivery platform
+- Secure cloud database for tracking and threading
 ---
 
 ## Notes
